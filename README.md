@@ -4,7 +4,7 @@ Hey, I'm Giovanni,
 I'm 23 years old developer based in Italy, I'm passionate web developer currently completing my computer science degree at the University of Perugia. On a mission to become a versatile full stack developer, I'm actively working on a variety of projects showcasing my skills in both frontend and backend development.
 
 
-##🔭 **Current Work:**
+###🔭 **Current Work:**
 - I'm immersed in exciting full stack projects, including dynamic e-commerce solutions.
 - Learning and mastering the intricacies of MEAN and MERN stack applications.
 - Actively engaging with developer communities, always seeking the latest tips and tricks.
